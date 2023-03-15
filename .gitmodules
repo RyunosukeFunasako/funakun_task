@@ -1,0 +1,3 @@
+[submodule "api/scripts/multiple_plots"]
+	path = api/scripts/multiple_plots
+	url = git@github.com:kusumi-unit/multiple_plots.git
